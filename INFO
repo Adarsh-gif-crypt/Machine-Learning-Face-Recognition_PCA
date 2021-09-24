@@ -1,1 +1,6 @@
-
+======INFO======
+Model is based on PCA (Principal Component Analysis) 
+Feature(Component) value was observed to increase variance in the defined 130 features
+SVC(Support Vector Classifier) was used with kernel RBF (Radial Basis Function)
+Face_data.csv used was provided and will be uploaded shortly which is flattened pixels into a grid
+Photograph size is 64x64 pixels.
